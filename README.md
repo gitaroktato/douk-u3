@@ -69,12 +69,8 @@ You can 3D print the top case extension and use it as a teplate to drill threade
 
 ### Modifications by Others
 
-[https://yama-audiolab-0910e.blog.jp/archives/18373911.html]
-
-[https://yama-audiolab-0910e.blog.jp/archives/18514568.html]
-
-[https://yama-audiolab-0910e.blog.jp/archives/18852685.html]
-
-[https://www.superbestaudiofriends.org/index.php?threads/douk-audio-u3-review-the-douk-of-wishful-thinking.13953/]
-
-[https://www.head-fi.org/threads/douk-u3-mini-headphone-amp-question-on-power-supply-voltage-amp-rating.953409/]
+- https://yama-audiolab-0910e.blog.jp/archives/18373911.html
+- https://yama-audiolab-0910e.blog.jp/archives/18514568.html
+- https://yama-audiolab-0910e.blog.jp/archives/18852685.html
+- https://www.superbestaudiofriends.org/index.php?threads/douk-audio-u3-review-the-douk-of-wishful-thinking.13953/
+- https://www.head-fi.org/threads/douk-u3-mini-headphone-amp-question-on-power-supply-voltage-amp-rating.953409/
