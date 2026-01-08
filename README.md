@@ -65,4 +65,4 @@ You can 3D print the top case extension and use it as a teplate to drill threade
 
 ### Manual
 
-[Douk U3 Manual](manual/XZ-U3-English Manual.pdf)
+[Douk U3 Manual](https://github.com/gitaroktato/douk-u3/blob/main/manual/XZ-U3-English%20Manual.pdf)
