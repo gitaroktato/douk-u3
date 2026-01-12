@@ -55,6 +55,10 @@ C8 | 330uF 35V low impedance polymer (Panasonic SEK)
 The higher capacitors don't fit into the old case, so I decided to cut of the top of the case and repliace it with plexiglass.
 You can 3D print the top case extension and use it as a teplate to drill threaded holes to fasten the plexiglass sheet.
 
+[STL file for the extension](stl/raiser.stl)
+
+<img src="stl/raiser-design.png" width="640"/>
+
 <img src="img/upgrades/cutoff_and_holes.jpg" width="640"/>
 
 <img src="img/upgrades/top_extension_1.jpg" width="640"/>
