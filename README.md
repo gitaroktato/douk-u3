@@ -28,6 +28,24 @@ C17 | 470uF 35V electrolytic (Jwco VENT)
 C4 | 470uF 35V electrolytic (Jwco VENT)
 C8 | 470uF 35V electrolytic (Jwco VENT)
 
+
+## Transistors
+
+### Original Transistor Values
+
+
+ ID | Type
+ -- | ----
+Q1 | NPN hFE=278, Vbe=0.68V, Ic=7.4mA
+Q2 | PNP hFE=313, Vbe=0.75V, Ic=2.7mA
+Q3 | NPN hFE=289, Vbe=0.68V, Ic=7.4mA
+Q4 | PNP hFE=315, Vbe=0.74V, Ic=2.7mA
+
+### Transistor Pinout
+
+All transistors were measured by their flat side facing downwards.
+<img src="img/pcb/EBC_transistor.png" />
+
 ## Modifications
 
 ### OP-AMP
