@@ -47,13 +47,21 @@ All transistors were measured by their flat side facing downwards.
 
 <img src="img/pcb/EBC_transistor.png" />
 
-<img src="img/pcb/transistors/Q1.jpg" width="860" />
+<img src="img/pcb/transistors/Q1.jpg" width="640" />
 
-<img src="img/pcb/transistors/Q2.jpg" width="860" />
+_Q1_
 
-<img src="img/pcb/transistors/Q3.jpg" width="860" />
+<img src="img/pcb/transistors/Q2.jpg" width="640" />
 
-<img src="img/pcb/transistors/Q4.jpg" width="860" />
+_Q2_
+
+<img src="img/pcb/transistors/Q3.jpg" width="640" />
+
+_Q3_
+
+<img src="img/pcb/transistors/Q4.jpg" width="640" />
+
+_Q4_
 
 ## Modifications
 
