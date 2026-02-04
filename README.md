@@ -88,7 +88,7 @@ C8 | 330uF 35V low impedance polymer (Panasonic SEK)
 ### Top
 
 The higher capacitors don't fit into the old case, so I decided to cut of the top of the case and repliace it with plexiglass.
-You can 3D print the top case extension and use it as a teplate to drill threaded holes to fasten the plexiglass sheet.
+You can 3D print the top case extension and use it as a template to drill threaded holes to fasten the plexiglass sheet.
 
 [STL file for the extension](stl/raiser.stl)
 
@@ -99,6 +99,20 @@ You can 3D print the top case extension and use it as a teplate to drill threade
 <img src="img/upgrades/top_extension_1.jpg" width="640"/>
 
 <img src="img/upgrades/top_extension_2.jpg" width="640"/>
+
+### Transistors
+
+Using `2N3904` NPN and `2N3906` PNP transistors respectively. With the same pinout as the original transistors. 
+
+ ID | Type
+ -- | ----
+Q1 | `2N3904 NPN` - hFE=229, Vbe=0.73V, Ic=7.4mA
+Q2 | `2N3906 PNP` - hFE=249, Vbe=0.77V, Ic=2.2mA
+Q1 | `2N3904 NPN` - hFE=229, Vbe=0.73V, Ic=7.4mA
+Q2 | `2N3906 PNP` - hFE=249, Vbe=0.77V, Ic=2.2mA
+
+[2N3904 - Datasheet](https://www.hestore.hu/prod_getfile.php?id=14196)
+[2N3906 - Datasheet](https://www.hestore.hu/prod_getfile.php?id=13861)
 
 ## References
 
