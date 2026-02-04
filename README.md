@@ -112,6 +112,7 @@ Q1 | `2N3904 NPN` - hFE=229, Vbe=0.73V, Ic=7.4mA
 Q2 | `2N3906 PNP` - hFE=249, Vbe=0.77V, Ic=2.2mA
 
 [2N3904 - Datasheet](https://www.hestore.hu/prod_getfile.php?id=14196)
+
 [2N3906 - Datasheet](https://www.hestore.hu/prod_getfile.php?id=13861)
 
 ## References
